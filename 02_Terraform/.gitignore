@@ -1,0 +1,9 @@
+# .gitignore
+
+# Ignore Terraform lock files
+.terraform.lock.hcl
+terraform.tfstate
+.terraform/
+
+# Ignore specific Terraform version file
+.terraform-version
