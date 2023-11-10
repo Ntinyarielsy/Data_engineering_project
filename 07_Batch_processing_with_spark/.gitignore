@@ -1,0 +1,8 @@
+# ignore the data folder
+data/
+Code/zones
+fhvhv/
+
+
+#ignore
+Code/taxi+_zone_lookup.csv
