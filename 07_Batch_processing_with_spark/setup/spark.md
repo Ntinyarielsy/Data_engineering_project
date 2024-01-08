@@ -44,7 +44,7 @@ c:\Program Files\Java\jdk-14.0.2\bin
 Delete `c:\Program Files\Common Files\Oracle\Java\javapath` from the path, close and reopen the terminal.
 
 
-## Step 2 : intsalling hadoop
+## Step 2 : installing hadoop
 Create a another folder in the and name it hadoop e.g `c:/tools/hadoop`.
 
 We'll need Hadoop 3.2 which we'll get from [here](https://github.com/cdarlint/winutils/tree/master).You can choose any 3.0 and above version.
